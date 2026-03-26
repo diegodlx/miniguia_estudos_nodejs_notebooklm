@@ -1,0 +1,34 @@
+1. Fundamentos da Web (HTML e CSS)
+HTML (Linguagem de Marcação de Hipertexto): É o bloco de construção básico da web, responsável por definir a estrutura e o significado do conteúdo
+. Utiliza "marcações" (elementos e tags) para anotar textos, imagens e outros conteúdos para exibição em navegadores
+
+CSS (Folhas de Estilo em Cascata): Uma linguagem de estilo usada para descrever a apresentação de documentos (HTML ou XML)
+. Controla como os elementos aparecem em diferentes mídias, abrangendo desde cores e fontes até layouts complexos como Flexbox e CSS Grid
+
+2. A Linguagem JavaScript (JS)
+Natureza da Linguagem: O JavaScript é uma linguagem leve, interpretada, baseada em objetos e protótipos, com funções de primeira classe
+. É multi-paradigma, suportando estilos de programação funcional, imperativa e orientada a objetos
+
+Conceitos de Especialização:
+Assincronismo: Essencial para o backend, envolve o uso de Promises e o entendimento do modelo de concorrência baseado no Loop de Eventos
+
+Modo Estrito (Strict Mode): Uma variante que proíbe certas sintaxes, resultando em melhor desempenho e depuração mais fácil
+
+Estruturas e Memória: Inclui o domínio de objetos globais (Array, JSON, Map, Set), gerenciamento de memória e coleta de lixo
+
+3. O Ambiente Node.js
+Definição e Performance: O Node.js é um ambiente de execução JavaScript de código aberto e multiplataforma que utiliza o motor V8 do Google Chrome fora do navegador
+
+Arquitetura Não-Bloqueante: Diferente de modelos tradicionais, o Node.js roda em um processo único e utiliza primitivas de I/O assíncronas em sua biblioteca padrão para evitar o bloqueio do código
+. Quando realiza operações de rede ou sistema de arquivos, ele retoma as operações assim que a resposta chega, sem desperdiçar ciclos de CPU esperando
+
+Escalabilidade: Essa arquitetura permite que um único servidor lide com milhares de conexões simultâneas sem a complexidade de gerenciar concorrência de threads
+
+4. Módulos e APIs do Backend
+Módulos Nativos do Node.js: O ecossistema inclui ferramentas poderosas como o módulo http para criar servidores web, fs para manipular o sistema de arquivos, path para gerenciar caminhos e stream para lidar com grandes volumes de dados de forma eficiente
+
+Web APIs: Interfaces de programação que permitem interações diversas, como a Fetch API para buscar dados e a File System API para acesso a arquivos
+
+Qualidade e Testes: O Node.js possui um executor de testes nativo que suporta criação de testes, "mocking" e coleta de cobertura de código para garantir a robustez da aplicação
+
+Estes pontos conectam a base da web com a infraestrutura necessária para você evoluir como desenvolvedor backend profissional utilizando JavaScript e Node.js.
