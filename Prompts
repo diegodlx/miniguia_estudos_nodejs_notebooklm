@@ -1,0 +1,37 @@
+1. Revisão de Fundamentos e JavaScript Core
+Estes prompts ajudam a garantir que sua base na linguagem está sólida, o que é vital para qualquer desenvolvedor Node.js
+
+Prompt de Herança: "Explique como funciona a cadeia de protótipos (prototype chain) no JavaScript e como ela se diferencia da herança em linguagens como Java"
+
+Prompt de Qualidade de Código: "Quais são as principais restrições impostas pelo Modo Estrito (Strict Mode) e como ele auxilia na performance e depuração de uma aplicação backend?"
+
+Prompt de Concorrência: "Descreva o funcionamento do Modelo de Concorrência do JavaScript e a importância do Loop de Eventos para a execução de código assíncrono"
+
+2. Arquitetura e Funcionamento do Node.js
+Focados em entender como o ambiente de execução opera "por baixo do capô"
+
+Prompt de Performance: "Como o Node.js utiliza o motor V8 para executar código fora do navegador e por que isso o torna performático para aplicações de larga escala?"
+
+Prompt de I/O Não-Bloqueante: "Explique o conceito de I/O não-bloqueante no Node.js. Como um único processo consegue lidar com milhares de conexões simultâneas sem criar novas threads para cada requisição?"
+
+Prompt de Ciclo de Vida: "Qual a diferença prática entre as funções process.nextTick() e setImmediate() dentro do ciclo de execução do Node.js?"
+
+3. Desenvolvimento de APIs e Módulos Nativos
+Para revisar a aplicação prática das ferramentas que compõem o ecossistema backend
+
+Prompt de Transações HTTP: "Descreva a anatomia de uma transação HTTP no Node.js, detalhando o papel dos objetos http.IncomingMessage (request) e http.ServerResponse (response)"
+
+Prompt de Manipulação de Dados: "Quando devo preferir o uso de Streams em vez de ler um arquivo inteiro para a memória usando o módulo fs? Explique o conceito de backpressuring"
+
+Prompt de Segurança: "Quais são as melhores práticas de segurança recomendadas pela documentação oficial para proteger uma aplicação Node.js em ambiente de produção?"
+
+4. Testes e Evolução de Carreira
+Focados na manutenção da qualidade do software e nas habilidades necessárias para o sucesso na área
+
+Prompt de Testes Automatizados: "Como utilizar o executor de testes nativo do Node.js para criar suítes de testes, aplicar mocking e verificar a cobertura de código?"
+
+Prompt de Diagnóstico: "Quais ferramentas de diagnóstico o Node.js oferece para analisar desempenho ruim, vazamentos de memória ou gerar gráficos de chama (flame graphs)?"
+
+Prompt de Roadmap: "Com base no currículo da MDN, quais são os módulos essenciais que um desenvolvedor frontend deve dominar para fazer a transição para a programação do lado do servidor com sucesso?"
+
+Dica de Especialista: Ao usar esses prompts, tente responder primeiro sem consultar os resumos e depois valide suas respostas com as fontes. Se desejar, posso transformar qualquer um desses tópicos em um quiz interativo ou um conjunto de flashcards para sua revisão de hoje. O que você acha?
